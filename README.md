@@ -1,4 +1,5 @@
 # git-basics
+> Allan Cascante y Martín Flores
 
 ## Contenidos
 
