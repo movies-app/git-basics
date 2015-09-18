@@ -39,14 +39,13 @@ git rebase *
 
 ### 4. Github
 
-Quick intro to git hub
-crear cuenta en github
-crear un repositorio 
-seguir las instrucciones de github para
+* Quick intro to git hub
+* Crear cuenta en github
+* Crear un repositorio 
+* Clone desde github 
 `git clone`
-hacer push del repositorio que han trabajado
+* Hacer push del repositorio que han trabajado
 ```
 git fetch
 git pull
-```
-create a new remote repo in git hub from our 
+``` 
